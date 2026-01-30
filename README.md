@@ -2,6 +2,7 @@ Desafio de construção de landing page para o curso da DNC.
 Links úteis:
 
 Link do site:
+  https://arquitetura-experience.netlify.app/
 
 
 Planilha de dados - MAILING:
